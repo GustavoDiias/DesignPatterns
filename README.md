@@ -6,11 +6,11 @@ Criacionais
 ## Strategy
 * Composição da estratégia no objeto "caller", onde a implementação herda a estratégia para implementar.
 
-## Template Method
+## Template
 * Realizar uma sequência de passos o qual um dos passos pode ser modificado.
 * Abstração do método que será diferente nas outras classes.
 
-## Factory Method
+## Factory
 * Delegar a responsabilidade de instanciar objetos à uma fábrica, diminuindo o acoplamento.
 
 ## Bridge
